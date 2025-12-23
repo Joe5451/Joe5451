@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 💻 I'm a backend developer primarily working with **Golang**
+- 🔨 Building scalable backend services and cloud infrastructure
+- 🌱 I'm currently learning **Terraform** and **Distributed Load Testing**
+
 <!--
 **Joe5451/Joe5451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
