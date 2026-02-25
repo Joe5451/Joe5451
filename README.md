@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 I'm a backend developer primarily working with **Golang**
+- 💻 I'm a backend developer primarily working with **PHP** and **Go**
 - 🔨 Building scalable backend services and cloud infrastructure
 
 <!--
